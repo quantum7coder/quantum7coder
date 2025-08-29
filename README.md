@@ -48,4 +48,13 @@
       </td>
     
   </table>
+
+
 ---
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anindya-mukhopadhyay&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
