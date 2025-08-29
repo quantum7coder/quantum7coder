@@ -29,9 +29,7 @@
     <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=quantum7coder&theme=chartreuse-dark&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph"/>
     </td>
-    <td>
-      <img src="assets/hedhehog.gif" alt="GitHub Activity Graph" width=50px height=50px/>
-    </td>
+
   </tr>
 </table>
   <table>
@@ -41,6 +39,9 @@
          src="https://github-readme-stats.vercel.app/api?username=quantum7coder&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
       </td>
      </tr>
+     <td>
+      <img src="assets/hedhehog.gif" alt="GitHub Activity Graph" width=100px height=100px/>
+    </td>
   </table>
   <table>
    <td>
