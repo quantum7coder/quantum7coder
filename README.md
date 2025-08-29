@@ -35,7 +35,7 @@
   <table>
     <tr>
      <td>
-      <img src="assets/hedhehog.gif" alt="GitHub Activity Graph" width=100px height=100px/>
+      <img src="assets/hedhehog.gif" alt="GitHub Activity Graph" width=200px height=200px/>
      </td>
      <td>
         <img 
