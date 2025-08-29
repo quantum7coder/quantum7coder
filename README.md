@@ -44,7 +44,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantum7coder&theme=chartreuse_dark" alt="GitHub Summarry Card"/>
    </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantum7coder&theme=blue-green&layout=donut&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantum7coder&theme=synthwave&layout=donut&hide_border=true" alt="Top Languages"/>
       </td>
     
   </table>
