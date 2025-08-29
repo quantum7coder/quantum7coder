@@ -21,3 +21,34 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+# Git Stats 📊
+  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=anindya-mukhopadhyay&theme=chartreuse-dark&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph"/>
+    </td>
+  </tr>
+</table>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=anindya-mukhopadhyay&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
+      </td>
+     <td>
+        <img 
+         src="https://github-readme-stats.vercel.app/api?username=anindya-mukhopadhyay&theme=blue-green&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
+      </td>
+     </tr>
+  </table>
+  <table>
+   <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anindya-mukhopadhyay&theme=chartreuse_dark" alt="GitHub Summarry Card"/>
+   </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindya-mukhopadhyay&theme=blue-green&layout=donut&hide_border=true" alt="Top Languages"/>
+      </td>
+    
+  </table>
+---
