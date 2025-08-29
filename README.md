@@ -29,6 +29,9 @@
     <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=quantum7coder&theme=chartreuse-dark&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph"/>
     </td>
+    <td>
+      <img src="assets/hedhehog.gif" alt="GitHub Activity Graph" width=50px height=50px/>
+    </td>
   </tr>
 </table>
   <table>
