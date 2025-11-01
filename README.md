@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRIYANSHU DEY</h1>
-<h3 align="center">A passionate PYTHON Developer</h3>
+<h3 align="center">A passionate PYTHON Developer & Drone Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantum7coder&label=Profile%20views&color=0e75b6&style=flat" alt="quantum7coder" /> </p>
 
@@ -64,5 +64,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-## 🐍 My Contribution Snake
-![snake gif](https://github.com/quantum7coder/quantum7coder/blob/output/snake.svg)
