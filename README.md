@@ -120,7 +120,7 @@
 
 ---
 
-## 🐍 Snake Game — *Make Your Contribution Graph Green!*
+## 🐍 Snake Game — *My Contribution Graph Green!*
 
 <div align="center">
 
