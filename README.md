@@ -129,8 +129,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </a>
 
-<p>Want to play? 👉 <a href="https://quantum7coder.github.io/snake-for-github-greens/">Click here to play Snake</a></p>
-
 </div>
 
 ---
