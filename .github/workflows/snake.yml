@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"  # every 12 hours
   workflow_dispatch:
 
+permissions:
+  contents: write  # allow the action to push to the output branch
+
 jobs:
   build:
     name: Generate Snake
@@ -13,14 +16,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # ✅ fetch full history so Platane/snk can read contributions
 
       - name: Generate snake animation from contributions
         uses: Platane/snk@v3
         with:
           github_user_name: quantum7coder
-          outputs: dist/github-contribution-grid-snake.svg
-          # You can add a theme:
-          # outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push the generated snake to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
