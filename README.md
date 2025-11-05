@@ -126,7 +126,11 @@
 
 <!-- Fork the snake repo below and deploy on GitHub Pages -->
 <a href="https://github.com/quantum7coder/snake-for-github-greens" target="_blank">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="## 🐍 Snake Game — *My Contribution Graph Green!*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quantum7coder/snake-for-github-greens/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div" alt="Snake animation" />
 </a>
 
 </div>
