@@ -122,16 +122,12 @@
 
 ## 🐍 Snake Game — *My Contribution Graph Green!*
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quantum7coder/quantum7coder/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quantum7coder/quantum7coder/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quantum7coder/quantum7coder/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
-<!-- Fork the snake repo below and deploy on GitHub Pages -->
-<a href="https://github.com/quantum7coder/snake-for-github-greens" target="_blank">
-  <img src="## 🐍 Snake Game — *My Contribution Graph Green!*
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/quantum7coder/snake-for-github-greens/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div" alt="Snake animation" />
-</a>
 
 </div>
 
