@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm PRIYANSHU DEY</h1>
 <h3 align="center">A passionate Python Developer & Drone Enthusiast</h3>
 
