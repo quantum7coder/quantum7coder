@@ -24,7 +24,7 @@
 class PriyanshuDey:
     def __init__(self):
         self.role      = "Python Developer & Drone Enthusiast"
-        self.building  = "Class Room Compass AI"
+        self.building  = "Autonomous Drone flight"
         self.learning  = "Machine Learning for Data Science"
         self.fun_fact  = "The longer you think about an idea, the harder it becomes to execute."
 
