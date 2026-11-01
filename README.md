@@ -1,154 +1,113 @@
-<h1 align="center">Hi 👋, I'm PRIYANSHU DEY</h1>
-<h3 align="center">A passionate Python Developer & Drone Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quantum7coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=220&section=header&text=Priyanshu%20Dey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Drone%20Enthusiast%20%7C%20ML%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=quantum7coder&theme=onedark&margin-w=15&margin-h=15" alt="Trophies"/>
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on **Class Room Compass AI**
-- 🌱 Currently learning **Machine Learning for Data Science**
-- 📫 Reach me at: **priyanshu.dey.codes@gmail.com**
-- ⚡ Fun fact: *The longer you think about an idea, the harder it becomes to execute.*
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/priyanshu-dey-2252852bb" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+<a href="https://linkedin.com/in/priyanshu-dey-2252852bb">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/itz_priyanshudey">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:priyanshu.dey.codes@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/itz_priyanshudey" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-</a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=quantum7coder&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
 
----
+</div>
 
-## 🛠 Languages and Tools
+<br/>
 
-<p align="center">
+## 🧑‍💻 About Me
 
-<a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" height="45"/>
-</a>
+```python
+class PriyanshuDey:
+    def __init__(self):
+        self.role      = "Python Developer & Drone Enthusiast"
+        self.building  = "Class Room Compass AI"
+        self.learning  = "Machine Learning for Data Science"
+        self.fun_fact  = "The longer you think about an idea, the harder it becomes to execute."
 
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-</a>
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something cool! 🚀")
 
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-</a>
+me = PriyanshuDey()
+me.say_hi()
+```
 
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
-</a>
+<br/>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-</a>
+## 🛠️ Tech Stack
 
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-</a>
+<div align="center">
 
-<a href="https://opencv.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="45" height="45"/>
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-</a>
+</div>
 
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
-</a>
+<br/>
 
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-</a>
+## 📊 GitHub Analytics
 
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=quantum7coder&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
 
-# 📊 GitHub Stats
+<br/><br/>
 
-<p align="center">
-  <img width="100%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=quantum7coder&theme=chartreuse-dark&hide_border=true&area=true" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=quantum7coder&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantum7coder&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 
-<p align="center">
+<br/><br/>
 
-<img width="49%"
-     src="https://github-readme-stats.vercel.app/api?username=quantum7coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img src="https://github-profile-trophy.vercel.app/?username=quantum7coder&theme=radical&margin-w=15&margin-h=15&no-frame=true&row=1" />
 
-<img width="37%"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantum7coder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<br/><br/>
 
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=quantum7coder&theme=radical" width="48%"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=quantum7coder&limit=5&theme=radical&combine_all_yearly_contributions=true" width="48%"/>
 
-<p align="center">
-  <img width="100%"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantum7coder&theme=nightowl" />
-</p>
+</div>
 
----
-
-## 🐾 Fun Section
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdqczl4Nmx5d2I2dTVmM2Q4aXQ2eGRuMXE3ZzM4a2R0MnR6dGRjNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="300px"/>
-</p>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=quantum7coder&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
+<br/>
 
 ## ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<div align="center">
 
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+<br/>
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/quantum7coder/quantum7coder/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/quantum7coder/quantum7coder/output/github-contribution-grid-snake.svg">
-
-  <img alt="GitHub contribution snake animation"
-       src="https://raw.githubusercontent.com/quantum7coder/quantum7coder/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quantum7coder/quantum7coder/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quantum7coder/quantum7coder/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/quantum7coder/quantum7coder/output/github-contribution-grid-snake-dark.svg">
 </picture>
-</p>
 
----
+</div>
 
-<h3 align="center">⭐️ From <a href="https://github.com/quantum7coder">quantum7coder</a></h3>
-```
+<br/>
 
+<div align="center">
+
+### ⭐️ From [quantum7coder](https://github.com/quantum7coder) — thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0e75b6&height=100&section=footer"/>
+
+</div>
