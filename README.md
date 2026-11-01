@@ -64,8 +64,8 @@ me.say_hi()
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=quantum7coder&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantum7coder&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=quantum7coder&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=quantum7coder&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 
 <br/><br/>
 
